@@ -1,0 +1,10 @@
+.beli {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 -6px 5px -5px rgb(172, 172, 172) !important;
+}
